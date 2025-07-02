@@ -103,7 +103,7 @@ df.to_csv("carpages_data.csv", index=False)
 
 ## **Disclaimer**
 
-> This project is created by [**M Aqeel Zafar**](https://github.com/maqeelzafar047) and is intended **for educational purposes only**. It is not affiliated with or endorsed by Carpages.ca. Do not use this script for any commercial or abusive activities. Always respect websites' terms of service.
+> This project is created by [**M Aqeel Zafar**](https://github.com/maqeelzafar047) and is intended **for educational purposes only**. It is not affiliated with or endorsed by **Carpages.ca**. Do not use this script for any commercial or abusive activities. Always respect websites' terms of service.
 
 ---
 
